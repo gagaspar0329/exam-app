@@ -1,7 +1,5 @@
 package com.itg.exam_app.response.success;
 
-import com.itg.exam_app.entity.CustomerEntity;
-
 public class CreateModel {
 	
 	private Long customerNumber;
